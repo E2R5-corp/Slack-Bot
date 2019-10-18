@@ -31,5 +31,4 @@ const followChannel = (channel) => {
 setInterval(() => {
     followChannel('C039P7U6E')
     followChannel('CN3D33GRX')
-    followChannel('C8Y2AQR6D')
-}, 5000);
+}, 3000);
